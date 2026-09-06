@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # @BotFather-dan aldığınız YENİ tokeni yazın
-TOKEN = "AAH5j6-oqsYd16U_xu3Not9lmVxXQwkEmJ4"
+TOKEN = "8986324306:AAH2Ny-kuiieCACGKYM2ZC7zs_9OWqioX_I"
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
