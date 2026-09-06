@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # @BotFather-dan aldığınız YENİ tokeni yazın
-TOKEN = "YENI_BOT_TOKENINIZI_BURAYA_YAZIN"
+TOKEN = "AAH5j6-oqsYd16U_xu3Not9lmVxXQwkEmJ4"
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
